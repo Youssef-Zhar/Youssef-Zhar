@@ -1,60 +1,56 @@
 # Youssef Zhar
 
-**Junior Full-Stack Web Developer**
+**Développeur Web Full-Stack Junior**  
 React.js · Laravel · PHP · MySQL
 
-📍 Morocco
-🎓 DTS Développement Digital — Développement Web Full-Stack, ISTA Témara — 2026
+📍 Maroc  
+🎓 DTS Développement Digital — option Développement Web Full-Stack, ISTA Témara — 2026
 
 ---
 
-## About Me
+## À propos
 
-I’m a Junior Full-Stack Web Developer focused on building modern web applications with **React.js, Laravel, PHP and MySQL**.
+Je suis développeur Web Full-Stack junior, avec un intérêt particulier pour la création d’applications web modernes à l’aide de **React.js, Laravel, PHP et MySQL**.
 
-I enjoy working on both frontend and backend development, building REST APIs, managing databases, and developing practical web solutions.
+J’apprécie autant le développement frontend que backend : création d’interfaces, développement d’API REST, gestion des bases de données et réalisation de solutions web pratiques.
 
-Currently looking for opportunities to grow as a **Full-Stack Web Developer** and contribute to real-world projects.
+Je suis actuellement à la recherche d’une opportunité me permettant de développer mes compétences, de gagner en expérience et de contribuer à des projets concrets.
 
 ---
 
-## Technical Skills
+## Compétences techniques
 
 **Frontend**
-
-* React.js
-* JavaScript (ES6+)
-* HTML5 / CSS3
-* Vite
-* Bootstrap
-* Tailwind CSS
+- React.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Vite
+- Bootstrap
+- Tailwind CSS
 
 **Backend**
+- PHP
+- Laravel
+- API REST
 
-* PHP
-* Laravel
-* REST APIs
+**Bases de données**
+- MySQL
+- MongoDB
 
-**Databases**
-
-* MySQL
-* MongoDB
-
-**Tools & Workflow**
-
-* Git / GitHub / GitLab
-* Docker
-* GitHub Actions
-* Jira / Scrum
-* UML
-* Figma
+**Outils et méthodes**
+- Git / GitHub / GitLab
+- Docker
+- GitHub Actions
+- Jira / Scrum
+- UML
+- Figma
 
 ---
 
-## Education
+## Formation
 
-**DTS — Développement Digital, option Développement Web Full-Stack**
-OFPPT — ISTA Témara
+**DTS — Développement Digital, option Développement Web Full-Stack**  
+OFPPT — ISTA Témara  
 **2024 – 2026**
 
 ---
@@ -63,6 +59,6 @@ OFPPT — ISTA Témara
 
 📧 **[youssefzh850@gmail.com](mailto:youssefzh850@gmail.com)**
 
-📍 **Morocco**
+📍 **Maroc**
 
-💼 Open to junior opportunities, internships and full-stack web development positions.
+💼 Ouvert aux opportunités junior, aux stages et aux postes en développement Web Full-Stack.
