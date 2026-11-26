@@ -1,7 +1,7 @@
 # Youssef Zhar
 
 **Développeur Web Full-Stack Junior**  
-React.js · PHP · Laravel · MySQL · Python · FastAPI
+Backend PHP/Laravel · React.js · MySQL · Python · FastAPI
 
 📍 Maroc  
 🎓 DTS Développement Digital — option Développement Web Full-Stack, OFPPT / ISTA Témara — 2026
@@ -10,7 +10,7 @@ React.js · PHP · Laravel · MySQL · Python · FastAPI
 
 Développeur Web Full-Stack junior, intéressé par la conception d'applications web, le développement d'API REST, la gestion des bases de données et l'intégration de solutions basées sur l'IA.
 
-Je travaille principalement avec **PHP/Laravel** côté backend et **React.js** côté frontend. Je développe également des projets avec Python/FastAPI et des bases de données relationnelles ou NoSQL.
+Mon orientation principale est le **développement backend avec PHP/Laravel** : conception d'API REST, authentification et gestion des données. J'utilise **React.js** pour construire les interfaces frontend et développe également des projets avec Python/FastAPI et des bases de données relationnelles ou NoSQL.
 
 Je recherche une première opportunité junior me permettant de contribuer à des projets concrets et de continuer à progresser.
 
